@@ -1,0 +1,6 @@
+para crear el ejecutable utilizo los comandos:
+
+
+jar cvfm Sistema.jar manifest.mf Bienvenida.class Licencia.class Principal.class images/coca-cola.png images/icon.png images/logo-coca.png images/coca-cola-blanco.png
+
+java -jar Sistema.jar
